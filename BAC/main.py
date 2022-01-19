@@ -5,4 +5,4 @@ def termes(p):
     return u
 
 
-print(termes(10))
+print(termes(10)) # PyCharm Output
